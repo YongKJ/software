@@ -10,9 +10,13 @@
 
 ![20210204151212.png](screenshot/20210204151212.png)
 
-![20210204151212.png](screenshot/20210204151329.png)
+![20210204151329.png](screenshot/20210204151329.png)
 
-![20210204151212.png](screenshot/20210204151434.png)
+![20210204201340.png](screenshot/20210204201340.png)
+
+![20210204201616.png](screenshot/20210204201616.png)
+
+![20210204201404.png](screenshot/20210204201404.png)
 
 #### 技术栈
 MySQL+Servlet+JDBC+JSP+HTML+CSS+JS+Bootstrap4
