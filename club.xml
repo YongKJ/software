@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>软件俱乐部</title>
+    <link>http://software.yongkj.cn/software/</link>
+    <description>这是一个属于软件的舞台！在这里，你将看到它们是如何展现个性风采的。快来加入吧，为你欣赏的软件加油助威，留下最热烈的喝彩！</description>
+    <language>zh-cn</language>
+    <copyright>Copyright(C) 软件俱乐部</copyright>
+    <lastBuildDate>Thu, 24 Dec 2020 05:23:46 GMT</lastBuildDate>
+    <ttl>720</ttl>
+    <image>
+      <title>软件俱乐部</title>
+      <url>http://software.yongkj.cn/software/img/club_icon.png</url>
+      <link>http://software.yongkj.cn/software/</link>
+      <width>528</width>
+      <height>528</height>
+    </image>
+    <item>
+      <title>Theia</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=425</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/theia-screenshot_compress5.jpg" alt="" /&gt;Theia（全名Eclipse Theia）是一个可扩展的平台，用于使用最新的Web技术开发多语言的云端和桌面的 IDE。&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;&lt;strong&gt;功能特性：&lt;/strong&gt;&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;1.云与桌面&#xD;&lt;br /&gt;&#xD;...</description>
+      <pubDate>Thu, 24 Dec 2020 05:23:46 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=425</guid>
+    </item>
+    <item>
+      <title>Cloudreve</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=424</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/Cloudreve-homepage.png" alt="" /&gt;Cloudreve 能助您以最低的成本快速搭建公私兼备的网盘系统。&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;&lt;strong&gt;功能特性：&lt;/strong&gt;&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;1. 支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、One...</description>
+      <pubDate>Thu, 24 Dec 2020 05:13:59 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=424</guid>
+    </item>
+    <item>
+      <title>vue-amap</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=423</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/20181129193120951_compress62.jpg" alt="" /&gt;vue-amap 是一套基于 Vue 2.0 和高德地图的地图组件。&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;数据状态与地图状态单向绑定&#xD;&lt;br /&gt;开发者无需关心地图的具体操作&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;&lt;strong&gt;特性：&lt;/strong&gt;&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;1.兼容高...</description>
+      <pubDate>Sun, 20 Dec 2020 05:29:28 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=423</guid>
+    </item>
+    <item>
+      <title>Browserify</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=422</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/fgswhoxd9mdjrfch0rj4.jpeg" alt="" /&gt;Browserify 可以让你使用类似于 node 的 require() 的方式来组织浏览器端的 Javascript 代码，通过预编译让前端 Javascript 可以直接使用 Node NPM ...</description>
+      <pubDate>Thu, 03 Dec 2020 18:04:57 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=422</guid>
+    </item>
+    <item>
+      <title>markdown-it</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=421</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/vue3-markdown-it.png" alt="" /&gt;markdown-it 是 Markdown 解析器，100% CommonMark 支持，易扩展，语法插件支持，速度非常快，默认保存。&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;&lt;strong&gt;功能特性：&lt;/strong&gt;&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;1....</description>
+      <pubDate>Thu, 03 Dec 2020 17:53:46 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=421</guid>
+    </item>
+    <item>
+      <title>Marked.js</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=420</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/YWAQqJ.default.webp" alt="" /&gt;Marked.js 是一个用 JavaScript 实现的、功能齐全的 Markdown 解析器和编译器。专为速度而设计。&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;可以非常方便的在线编译 Markdown 代码为 HTML 并直接显示...</description>
+      <pubDate>Thu, 03 Dec 2020 17:42:55 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=420</guid>
+    </item>
+    <item>
+      <title>ossfs</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=419</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/OSS.jpg" alt="" /&gt;ossfs 能让您在Linux系统中，将对象存储OSS的存储空间（Bucket）挂载到本地文件系统中，您能够像操作本地文件一样操作OSS的对象（Object），实现数据的共享。&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;&lt;strong&gt;...</description>
+      <pubDate>Fri, 20 Nov 2020 02:36:27 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=419</guid>
+    </item>
+    <item>
+      <title>mavonEditor</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=418</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/ed7b1780-8d09-11e9-9471-f7539a16ad4f.png" alt="" /&gt;mavonEditor - 基于Vue的markdown编辑器，支持多种个性化功能。&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;&lt;strong&gt;特性：&lt;/strong&gt;&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;1.events 事件绑定&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;2.代码高亮&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;3.图...</description>
+      <pubDate>Wed, 18 Nov 2020 03:06:55 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=418</guid>
+    </item>
+    <item>
+      <title>Typora</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=417</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/1_QWwWrJim3H8C9y2OKu9PPQ.png" alt="" /&gt;Typora 是一款由Abner Lee开发的轻量级Markdown编辑器，适用于OS X、Windows和Linux三种操作系统，是一款免费软件。&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;与其他Markdown编辑器不同的是，Typ...</description>
+      <pubDate>Wed, 18 Nov 2020 02:51:21 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=417</guid>
+    </item>
+    <item>
+      <title>Mint UI</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=416</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/mint-webui-thisiskuldeep.png" alt="" /&gt;Mint UI，基于 Vue.js 的移动端组件库&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;&lt;strong&gt;特性：&lt;/strong&gt;&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;1.Mint UI 包含丰富的 CSS 和 JS 组件，能够满足日常的移动端开发需要。通过它，...</description>
+      <pubDate>Mon, 16 Nov 2020 19:35:19 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=416</guid>
+    </item>
+    <item>
+      <title>Element UI</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=415</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/5d006dff2f06625968.jpg" alt="" /&gt;Element UI 是一套采用 Vue 2.0 作为基础框架实现的组件库，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的组件库，提供了配套设计资源，帮助网站快速成型。&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;Eleme...</description>
+      <pubDate>Mon, 16 Nov 2020 19:27:23 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=415</guid>
+    </item>
+    <item>
+      <title>Clipboard.js</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=414</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/copy-to-clipboard-javascript.png" alt="" /&gt;Clipboard.js 实现了纯 JavaScript （无 Flash）的浏览器内容复制到系统剪贴板的功能。可以在浏览器和 Node 环境中使用。&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;现代化的拷贝文字，不依赖flash, 不依...</description>
+      <pubDate>Mon, 16 Nov 2020 19:14:13 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=414</guid>
+    </item>
+    <item>
+      <title>Quill</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=413</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/quill.png" alt="" /&gt;Quill 是一款强大的现代富文本编辑器插件。该富文本编辑器插件支持所有的现代浏览器、平板电脑和手机。&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;它提供了文本编辑器的所有功能，并为开发者提供大量的配置参数和方法。&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;它是一款轻量，易...</description>
+      <pubDate>Mon, 16 Nov 2020 19:02:01 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=413</guid>
+    </item>
+    <item>
+      <title>qart.js</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=412</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/mA3eeu.png" alt="" /&gt;qart.js 是一款基于html5 canvas的可生成带指定图案的js二维码插件。&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;普通的二维码是以黑白点为底色，而通过该js插件，你可以指定任意图片为二维码的背景图案，还可以制作彩色的二维...</description>
+      <pubDate>Mon, 16 Nov 2020 18:38:50 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=412</guid>
+    </item>
+    <item>
+      <title>Vue.Draggable</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=411</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/PBVvXVz.jpg" alt="" /&gt;Vue.Draggable 是一款基于Sortable.js实现的vue拖拽插件。支持移动设备、拖拽和选择文本、智能滚动，可以在不同列表间拖拽、不依赖jQuery为基础、vue 2过渡动画兼容、支持撤...</description>
+      <pubDate>Wed, 11 Nov 2020 16:17:06 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=411</guid>
+    </item>
+    <item>
+      <title>SortableJS</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=410</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/15b56200-6e92-11e9-8a66-ddd673bf8aed.png" alt="" /&gt;SortableJS 是一个功能强大的JavaScript 拖拽库。&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;&lt;strong&gt;特性：&lt;/strong&gt;&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;1.兼容性好&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;支持触屏设备和大部分浏览器&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;2.简单&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;简单的...</description>
+      <pubDate>Wed, 11 Nov 2020 16:02:44 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=410</guid>
+    </item>
+    <item>
+      <title>DataV</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=409</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/construction-data.jpg" alt="" /&gt;DataV是一个基于Vue的数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)。&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;&lt;strong&gt;...</description>
+      <pubDate>Mon, 09 Nov 2020 11:15:12 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=409</guid>
+    </item>
+    <item>
+      <title>FastTunnel</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=408</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/FastTunnel.png" alt="" /&gt;FastTunnel 是一款高性能跨平台内网穿透工具，使用它可以实现将内网服务暴露到公网供自己或任何人访问。&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;与其他穿透工具不同的是，FastTunnel项目致力于打造一个易于扩展、易于维护的内...</description>
+      <pubDate>Mon, 09 Nov 2020 10:47:23 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=408</guid>
+    </item>
+    <item>
+      <title>ECharts</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=407</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/echarts_theme.png" alt="" /&gt;ECharts，一个使用 JavaScript 实现的开源可视化库，可以流畅的运行在 PC 和移动设备上，兼容当前绝大部分浏览器（IE8/9/10/11，Chrome，Firefox，Safari等）...</description>
+      <pubDate>Mon, 09 Nov 2020 10:30:51 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=407</guid>
+    </item>
+    <item>
+      <title>Layui</title>
+      <link>http://software.yongkj.cn/software/content?softwareId=406</link>
+      <description>&lt;img src="http://software.yongkj.cn/software/img/layui.png" alt="" /&gt;Layui 是当下颇受国内开发者青睐的开源前端 UI 框架，采用自身模块规范编写，遵循原生HTML/CSS/JS的书写与组织形式，门槛极低，拿来即用。&#xD;&lt;br /&gt;&#xD;&lt;br /&gt;其外在极简，却又不失饱满的内在，体积轻盈，...</description>
+      <pubDate>Sat, 07 Nov 2020 00:25:03 GMT</pubDate>
+      <author>ADMIN</author>
+      <guid>http://software.yongkj.cn/software/content?softwareId=406</guid>
+    </item>
+  </channel>
+</rss>

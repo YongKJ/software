@@ -1,0 +1,187 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+.canvas{
+/*	width: 1000px;
+	height: 1000px;*/
+  position: absolute;
+  margin: 0 auto;
+}
+#container{
+	width: 500px;
+	height: 300px;
+	margin: 0 auto;
+	position: relative;
+
+}
+    .top{
+    	height:40px;
+		line-height: 40px;
+		text-align: center;
+		font-size: 18px;
+
+		
+	}
+	.top span{
+		color: #B6C3D4;
+	}
+	.form{
+		width: 500px;
+		height: 250px;
+		background: #F5F5F5;
+		overflow: hidden;
+	}
+		.formTop{
+			text-align: center;
+			background: #D9EDF6;
+			width: 332px;
+			height: 25px;
+			margin: 0 auto;
+			margin-top: 8px;
+        }
+        .formTop span{
+        	font-size: 10px;
+        	color: #B6C9DF;
+        }
+		.usename{
+			width: 328px;
+			height: 20px;
+			/*margin:20px 0 0 0 ;*/
+			margin: 0 auto;
+			margin-top: 20px;
+			border: 2px solid #e4e4e4;
+		}
+			.usenameImg{
+				width: 20px;
+				height: 20px;
+				background: #F0F0F0;
+				float: left;
+			/*	border: 2px solid #e4e4e4;*/
+			}
+				.usenameImg img{
+					width: 20px;
+					height: 20px;
+					margin: 0;
+
+				}
+			.usenameText{
+				float: left;
+				height: 20px;
+			}
+            	.usenameText input,.password input{
+            		display:block;
+            		width: 308px;
+            		height: 20px;
+            		border: 0px solid ;
+            		padding: 0px;
+            		margin: 0px;
+            	}
+         /*----------------邮箱---------------------邮箱-------------------邮箱-----------------------邮箱----------*/
+        .email{
+			width: 328px;
+			height: 20px;
+			/*margin:20px 0 0 0 ;*/
+			margin: 0 auto;
+			margin-top: 20px;
+			border: 2px solid #e4e4e4;
+		}
+			.emailImg{
+				width: 20px;
+				height: 20px;
+				background: #F0F0F0;
+				float: left;
+			/*	border: 2px solid #e4e4e4;*/
+			}
+				.emailImg img{
+				    width: 16px;
+				    height: 18px;
+				    margin: 0;
+				    padding: 0 0 0 0.5px;
+				}
+			.emailText{
+				float: left;
+				height: 20px;
+			}
+            	.emailText input,.password input{
+            		display:block;
+            		width: 308px;
+            		height: 20px;
+            		border: 0px solid ;
+            		padding: 0px;
+            		margin: 0px;
+            	}
+		.password{
+			width: 328px;
+			height: 20px;
+			/*margin:20px 0 0 0 ;*/
+			margin: 0 auto;
+			margin-top: 20px;
+			border: 2px solid #e4e4e4;
+		}
+			.passwordImg{
+				width: 20px;
+				height: 20px;
+				background: #F0F0F0;
+				float: left;
+			/*	border: 2px solid #e4e4e4;*/
+			}
+				.passwordImg img{
+					/*height: 20px;
+					width: 20px;
+					margin:0;
+					padding: 0;*/
+					    height: 16px;
+   						width: 16px;
+   						margin: 0;
+					    padding: 0;
+					    padding: 0 0 0 2px;
+
+				}
+			.passwordText{
+				float: left;
+				height: 20px;
+			}
+	
+		.remember_Me{
+			width: 100px;
+			height: 20px;
+			margin: 0 auto;
+			margin-top: 8px;
+
+		}   
+		    .remember_Me input{
+		    	display: block;
+		    	margin: 1.9px 0 0 0;
+		    	padding: 0;
+		    	float: left;
+		    }
+			.remember_Me span{
+				display: block;
+				float: left;
+				font-size: 2px;
+				margin: 2px 0 0 2px;
+			}
+		.button{
+			width: 200px;
+			height: 22px;
+			margin: 0 auto;
+			margin-top: 12px;
+			text-align: center;
+		
+
+		}
+			.submit{
+				width: 200px;
+				height: 22px;
+				background: #30A0B0;
+				margin: 8px 0 0 0;
+				padding: 0;
+				border: 0 solid;
+				color: #fff;
+				cursor: pointer;
+			}
+			.submit:hover{
+				border: 1px solid red;
+			}
