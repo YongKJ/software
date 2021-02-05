@@ -51,7 +51,4 @@ MySQL+Servlet+JDBC+JSP+HTML+CSS+JS+Bootstrap4
 3.  所有逻辑代码均在 WEB-INF/src/service/ 文件夹下
 4.  如需正常部署访问，则要修改 jsp 文件以及逻辑代码中的一些链接域名
 
-> 此项目是在 Linux 环境下使用 Jupyter Lab 代码编辑器开发，
-> 因此可直接部署在 Tomcat 中的 webapps 文件夹下，并且需要
-> 手动输入命令编译项目代码文件（进入 WEB-INF/src 文件夹后
-> 输入 javac -d ../classes/ -cp ../../../../lib/*:../lib/*:controller/:service/:dao/:entity/ controller/CentralController.java）。
+> 此项目是在 Linux 环境下使用 Jupyter Lab 代码编辑器开发，因此可直接部署在 Tomcat 中的 webapps 文件夹下，并且需要手动输入命令编译项目代码文件（进入 WEB-INF/src 文件夹后输入 javac -d ../classes/ -cp ../../../../lib/*:../lib/*:controller/:service/:dao/:entity/ controller/CentralController.java）。
